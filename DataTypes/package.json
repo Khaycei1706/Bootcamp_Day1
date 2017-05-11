@@ -1,0 +1,18 @@
+{
+  "name": "data_types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/library.js",
+  "scripts": {
+    "test": "jasmine tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaycei1706/Bootcamp_Day1.git"
+  },
+  "author": "Kelechi Aribeana",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
