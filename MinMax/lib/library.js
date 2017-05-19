@@ -12,4 +12,4 @@ function findMinMax(numbers) {
     } else {
         return [min, max];
     }
-}
+};
